@@ -10,7 +10,7 @@
 - 🌱 Atualmente estou estudando testes unitários com PHP-Unit.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-pinto-da-silva-b214311b5)](https://www.linkedin.com/in/anderson-pinto-da-silva-b214311b5)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?color=blue&style=flat-square&link=mailto:andersonpintodasilva@hotmail.com)](andersonpintodasilva@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?color=blue&style=flat-square&link=mailto:andersonpintodasilva@hotmail.com)](mailto:andersonpintodasilva@hotmail.com)
 
 
  - Obrigado pela visita. 
